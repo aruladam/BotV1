@@ -58,4 +58,4 @@ after running it you need to scan the qr
 ## 🙏 Big Special Thanks To
 
 * [`MrDevil`](https://github.com/adimas999) 
-* [`Affisjunianto`](https://github.com/affisjunianto) 
+* [`Mhankbarbar`](https://github.com/MhankBarBar) 
