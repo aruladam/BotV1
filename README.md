@@ -37,7 +37,7 @@ If you find some bugs please contact the WhatsApp number on Contact
 Clone this project
 
 ```bash
->pkg install git
+> pkg install git
 > git clone https://github.com/adimas999/BotV1
 > cd botwasapv2-main
 ```
