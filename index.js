@@ -49,7 +49,7 @@ const config = {
     XBOT: '❉AmpibI❉', 
     instagram: 'https://instagram.com/affis_saputro123', 
     nomer: 'wa.me/6282334297175',
-    youtube: 'https://youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg', 
+    youtube: 'kalau punya channel youtube tinggal tulis aja', 
     whatsapp: 'Comming soon', 
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
