@@ -22,15 +22,14 @@
 ## Information
 
 #### This script is open to anyone! If you want to add commands, please contribute / pull request! Buying and selling scripts is prohibited!
-- Change [ownerNumber](https://github.com/affisjunianto/botwasapv2/blob/83fc552e75055be2fca530dceb593f983bcb3fe1/index.js#L170) in index.js to be your number
+- Change [ownerNumber](https://github.com/adimas999/BotV1/blob/ad9e4b9284c78d24ac2017a0ba037b71087340a4/index.js#L170) in index.js to be your number
 ownerNumber = "6282334297175@s.whatsapp.net"
 
 ## Contact
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [WHATSAPP](https://wa.me/6282334297175)
-- [MY BOT](wa.me/6282334297175)
+- [WHATSAPP](https://wa.me/6285939888897)
 
 ### Install
 Clone this project
