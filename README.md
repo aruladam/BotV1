@@ -36,7 +36,7 @@ Clone this project
 
 ```bash
 >pkg install git
-> git clone https://github.com/affisjunianto/botwasapv2
+> git clone https://github.com/adimas999/BotV1
 > cd botwasapv2-main
 ```
 
